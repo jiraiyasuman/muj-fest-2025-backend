@@ -1,2 +1,0 @@
-CREATE SCHEMA `mujunityfest2025backend` ;
-create table message (id integer not null auto_increment, city varchar(255), email varchar(255), message varchar(255), mobile varchar(255), name varchar(255), subject varchar(255), primary key (id)) engine=InnoDB
